@@ -1,0 +1,84 @@
+<html>
+
+<head>
+
+<title>Promotion</title>
+
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+<section id="navbar">
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="about us.html">About Us</a></li>
+  <li><a href="desserts.html">Menu</a></li>
+  <li><a href="gallery.html">Gallery</a></li>
+  <li class="main-logo"><a href="about us.html"><img src="images/logo3.png" width="36%" height="12%"></a></li>
+  <li><a href="promotion.html">Promotion</a></li>
+  <li><a href="delivery.html">Delivery</a></li>
+  <li><a href="contacts.html">Contact</a></li> 
+</a>
+</ul>
+</section>
+<br>
+</head>
+
+<body bgcolor="#B4D8E7">
+<a name="top"></a>
+<br>
+<br>
+<embed src="music/bgsound.mp3" autoplay="true" hidden="true" loop="true"></embed>
+<br>
+<center>
+<h1><font size="10" face="garamond" color="White"><i>Promotion</i></font></h1>
+<br>
+
+<div class="container">
+  <div class="gallery">
+	<img src="images/promo.jpg">
+<br>
+<br>
+	<div class="desc">- SPECIAL DAY PROMOTION -</div>
+
+  </div>
+  <pre>
+  </pre>
+  <div class="gallery">
+	<img src="images/promotion_2.jpg">
+<br>
+<br>
+	<div class="desc">- FRIDAY PROMOTION -</div>
+  </div>
+  <pre>
+  </pre>
+  <div class="gallery">
+	<img src="images/promo_3.jpg">
+<br>
+<br>
+	<div class="desc">- COUPLE PROMOTION -</div>
+  </div>
+</center>
+
+</div>
+<br>
+<br>
+<a href="#top"><img src="images/up.png" align="right" width="50" height="40"></a>
+<br>
+<br>
+<pre>
+<br>
+<br>
+<br>
+<br>
+<br>
+</pre>
+
+<div class="footer">
+<center>  
+  <p>This website is develop for IMD311 - Introduction to Web Content and Design</p>
+  <p>Any information and material use for education only.</p>
+  <pre><li><a href="https://instagram.com/delicious___delight?igshid=1s6sqn0cknhkf"><img src="images/insta.png" width="50" height="40"><a href="https://www.facebook.com/Delicious_Delight-107801144317532/?ref=page_internal"><img src="images/fb.png" width="40" height="40"></a></li></pre>
+</center>
+</div>
+
+</body>
+</html>

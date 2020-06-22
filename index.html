@@ -1,0 +1,121 @@
+<html>
+<head>
+<title>Home Page</title>
+
+<link rel="stylesheet" type="text/css"
+href="style.css" />
+
+<section id="navbar">
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="about us.html">About Us</a></li>
+  <li><a href="desserts.html">Menu</a></li>
+  <li><a href="gallery.html">Gallery</a></li>
+  <li class="main-logo"><a href="about us.html"><img src="images/logo3.png" width="36%" height="12%"></a></li>
+  <li><a href="promotion.html">Promotion</a></li>
+  <li><a href="delivery.html">Delivery</a></li>
+  <li><a href="contacts.html">Contact</a></li> 
+</a>
+</ul>
+</section>
+</style>
+
+</head>
+
+<body>
+<body bgcolor= "#b4d8e7"">
+
+<br>
+<embed src="music/bgsound.mp3" autoplay="true" hidden="true" loop="true"></embed>
+<br>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="images/promo_3.jpg" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="images/promotion_2.jpg" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="images/promo.jpg" style="width:100%">
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+<br>
+<br>
+<center>
+<h2>Meet The Team</h2>
+<br>
+<p>"Behing Every Succes is a Great Team"</p>
+</center>
+<br>
+<br>
+<center><pre><img src="images/team1.png" width="20%" height="60%">  <img src="images/team2.png" width="20%" height="60%">  <img src="images/team3.png" width="20%" height="60%">  <img src="images/team4.png" width="20%" height="60%"></pre></center>
+
+<br>
+<br>
+<br>
+
+<div class="footer">
+<center>  
+  <p>This website is develop for IMD311 - Introduction to Web Content and Design</p>
+  <p>Any information and material use for education only.</p>
+  <pre><li><a href="https://instagram.com/delicious___delight?igshid=1s6sqn0cknhkf"><img src="images/insta.png" width="50" height="40"><a href="https://www.facebook.com/Delicious_Delight-107801144317532/?ref=page_internal"><img src="images/fb.png" width="40" height="40"></a></li></pre>
+</center>
+</div>
+<br>
+<br>
+<br>
+<b
+<br>
+<br>
+<br>
+<br>
+</body>
+</html>

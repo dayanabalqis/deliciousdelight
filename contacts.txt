@@ -1,0 +1,89 @@
+<html>
+<html lane="en">
+<body style="background-image: url('images/main.jpg');">
+<head>
+<title>Contacts</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css"> 
+</head>
+<section id="navbar">
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="about us.html">About Us</a></li>
+  <li><a href="desserts.html">Menu</a></li>
+  <li><a href="gallery.html">Gallery</a></li>
+  <li class="main-logo"><a href="about us.html"><img src="images/logo3.png" width="36%" height="10%"></a></li>
+  <li><a href="promotion.html">Promotion</a></li>
+  <li><a href="delivery.html">Delivery</a></li>
+  <li><a href="contacts.html">Contact</a></li> 
+</a>
+</ul>
+</section>
+</style>
+</head>
+<br>
+<embed src="music/bgsound.mp3" autoplay="true" hidden="true" loop="true"></embed>
+<br>
+
+<div class="rowie">
+  <div class="sidepic">
+    <img src="images/cakeu.jpg" width="100%">
+  </div>
+<br>
+<br>
+<br>
+  <div class="border">
+<br>
+<br>
+<br>
+   <img src="images/ring.gif" width="70%" height="20%">
+<br>
+<br>
+<br>
+<br>
+   <img src="images/cake.gif" width="80%" height="20%">
+<br>
+<br>
+<br>
+<br>
+   <img src="images/ring.gif" width="70%" height="20%">
+ </div>
+
+<div class="form" style="font-family:Josefin Sans;" text align="justify">
+    <h1 style="font-family:DesertDogHmk;" font size="30px" text align="center">Contact Us!</h1>
+    <p style="font-size:18px">Questions, comments or interested in reserving a table for your next meeting? Get in touch and we will get back with you as soon as possible with reservation details.</p>
+<p style="font-size:17px" text align="center"><i>Please fill in the form below:</i></p>
+     <label for="name">Name:</label><br>
+     <input type="text" id="name" name="name"><br><br>
+     <label for="country">Country</label>
+     <select id="country" name="country">
+      <option value="malaysia">Malaysia</option>
+      <option value="singapore">Singapore</option>
+      <option value="indonesia">Indonesia</option>
+     </select>
+     <label for="message">Message:</label><br>
+     <input type="text" id="message" name="message" placeholder="Write something.." style="height:100px"><br><br>
+     <label for="email">Email Address:</label><br>
+     <input type="text" id="email" name="email"><br><br>
+     <a href="https://forms.gle/awT93bsFqfr68T5w9">
+     <input type="submit" value="Submit">
+   </form> 
+  </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div class="footer">
+<center>  
+  <p>This website is develop for IMD311 - Introduction to Web Content and Design</p>
+  <p>Any information and material use for education only.</p>
+  <pre><li><a href="https://instagram.com/delicious___delight?igshid=1s6sqn0cknhkf"><img src="images/insta.png" width="50" height="40"><a href="https://www.facebook.com/Delicious_Delight-107801144317532/?ref=page_internal"><img src="images/fb.png" width="40" height="40"></a></li></pre>
+</center>
+</div>
+<br>
+
+</body>
+</html>

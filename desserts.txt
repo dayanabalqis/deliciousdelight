@@ -1,0 +1,158 @@
+<html>
+<html lane="en">
+<body style="background-color:#B4D8E7;">
+<head>
+<title>dessert menu</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text/css" href="styles.css" />
+
+<section id="navbar">
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="about us.html">About Us</a></li>
+  <li><a href="desserts.html">Menu</a></li>
+  <li><a href="gallery.html">Gallery</a></li>
+  <li class="main-logo"><a href="about us.html"><img src="images/logo3.png" width="36%" height="12%"></a></li>
+  <li><a href="promotion.html">Promotion</a></li>
+  <li><a href="delivery.html">Delivery</a></li>
+  <li><a href="contacts.html">Contact</a></li>
+</ul>
+</section>
+<br>
+<embed src="music/bgsound.mp3" autoplay="true" hidden="true" loop="true"></embed>
+<br>
+
+</head>
+<body>
+<div class="row">
+  <div class="column">
+    <img src="images/food.png" class="yummy" style="width:100%">
+  </div>
+  <div class="column">
+   <img src="images/dd.png" style="width:100%">
+  </div>
+  <div class="column">
+   <img src="images/drink.png" class="yummy" style="width:100%">
+  </div>
+</div>
+
+<div class="rows">
+  <div class="columns">
+    <img src="images/waffle.jpg" style="width:100%">
+  </div>
+  <div class="columns">
+    <img src="images/choco.jpg" style="width:100%">
+  </div>
+  <div class="columns">
+    <img src="images/edible.jpg" style="width:100%">
+  </div>
+   <div class="columns">
+    <img src="images/marsh.jpg" style="width:100%">
+  </div>
+  <div class="columns">
+    <img src="images/strawb.jpg" style="width:100%">
+  </div>
+  <div class="columns">
+    <img src="images/acai.jpg" style="width:100%">
+  </div>
+</div>
+
+<div class="foods">
+  <p style="font-size:50px" text align="center">dessert menu</p>
+  <p class="textt" align="center"><i>cakes & more</i></p>
+</div> 
+  <p class="disert" align="center">marsh-brownies / rm 10</p>
+  <p class"diss" align="center"><i>"our infamous marshmellow brownies, burned with absolute perfection on the tips"</i></p>
+  <p class="disert" align="center">pies / rm 8</p>
+  <p class"diss" align="center"><i>"baked flavours like chocolate chip, pumpkin, vanilla bean, marshmellow, chocolate fudge"</i></p>
+  <p class="disert" align="center">waffles & cream / rm 16</p>
+  <p class"diss" align="center"><i>"our handmade whipped cream topped with strawberries"</i></p>
+  <p class="disert" align="center">cakes (per slice) / rm 5</p>
+  <p class"diss" align="center"><i>"durian, strawberry shortcake, moist chocolate, banana, cheesecakes and various other flavours"</i></p>
+  <p class="disert" align="center">soufle pancakes / rm 14</p>
+  <p class"diss" align="center"><i>"topped with fresh fruits and our own maple syrup"</i></p>
+  <p class="disert" align="center">crepe / rm 12</p>
+  <p class"diss" align="center"><i>"folded to perfection with fresh creme and fruits"</i></p>
+  <p class="disert" align="center">toast' em's / rm 7</p>
+  <p class"diss" align="center"><i>"toasts but fluffy and soft</i></p>
+  <p class="disert" align="center">cookies (per piece) / rm 3</p>
+  <p class"diss" align="center"><i>"oat & raisin, chocolate chip and our famous, peanut-nutty cookie"</i></p>
+<br>
+
+<h2 align="center"><font size="50px">Drinks</font></h2>
+<br>
+<div class="row">
+  <div class="column">
+    <img src="images/33.jpg" style="width:100%">
+    <br>
+    <p align="center">Classic Tea</p>
+    <p align="center">RM 3.00</p>
+  </div>
+  <div class="column">
+    <img src="images/34.jpg" style="width:100%;height:65.5%">
+    <br>
+    <p align="center">Old time Pulut Cendol</p>
+    <p align="center">RM 5.00</p>
+  </div>
+  <div class="column">
+    <img src="images/49.jpg" style="width:100%">
+    <br>
+    <p align="center">Classic Tea-O</p>
+    <p align="center">RM 2.50</p>
+  </div>
+</div>
+
+<div class="rows">
+  <div class="columns">
+    <img src="images/51.jpg" style="width:100%;height:65%;">
+  </div>
+  <div class="columns">
+    <img src="images/53.jpg" style="width:100%;height:65%;">
+  </div>
+  <div class="columns">
+    <img src="images/54.jpg" style="width:100%">
+  </div>
+   <div class="columns">
+    <img src="images/55.jpg" style="width:100%">
+  </div>
+  <div class="columns">
+    <img src="images/71.jpg" style="width:100%;height:65%;">
+  </div>
+  <div class="columns">
+    <img src="images/72.jpg" style="width:100%;height:65%;">
+  </div>
+</div>
+
+<div class="foods">
+  <p style="font-size:50px" text align="center"><a href="desserts.html"></a></p>
+  <p class="textt" align="center"><i>tea & coffee</i></p>
+</div> 
+  <p class="disert" align="center">green tea / rm 5.00</p>
+  <p class"diss" align="center"><i>"our green tea make you feel the taste of refreshness"</i></p>
+  <p class="disert" align="center">espresso / rm 6.00</p>
+  <p class"diss" align="center"><i>"perfect shot that goes straight to your throat"</i></p>
+  <p class="disert" align="center">Earl Grey / rm 5.00</p>
+  <p class"diss" align="center"><i>"elegant even when drinking tea"</i></p>
+  <p class="disert" align="center">latte/ rm 8.00</p>
+  <p class"diss" align="center"><i>"the art of drinking coffee"</i></p>
+  <p class="disert" align="center">ice lemon tea / rm 4.00</p>
+  <p class"diss" align="center"><i>"dip in cold water for a day, walla! the best!"</i></p>
+<br>    
+<br>    
+<br>    
+<br>    
+<br>
+<br>
+<br>
+<br>        
+<div class="footer">
+<center>  
+  <p>This website is develop for IMD311 - Introduction to Web Content and Design</p>
+  <p>Any information and material use for education only.</p>
+<pre><li><a href="https://instagram.com/delicious___delight?igshid=1s6sqn0cknhkf"><img src="images/insta.png" width="50" height="40"><a href="https://www.facebook.com/Delicious_Delight-107801144317532/?ref=page_internal"><img src="images/fb.png" width="40" height="40"></a></li></pre>
+</center>
+</div>
+</body>
+</html>
