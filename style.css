@@ -110,16 +110,16 @@ input[type=submit]:hover {
 
 .columns {
   flex: 33.33%;
-  padding: 3px;
+  padding: 0px;
 }
 
 .rows {
   display: flex;
 }
  .foods {
-  padding: 3px;
+  padding: 0px;
   color: black;
-  line-height: 2;
+  line-height: 0.5;
 }
 .textt {
  color: grey; 
