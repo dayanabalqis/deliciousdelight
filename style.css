@@ -119,12 +119,12 @@ input[type=submit]:hover {
  .foods {
   padding: 0px;
   color: black;
-  line-height: 0.5;
+  line-height: 0;
 }
 .textt {
  color: grey; 
  font-size: 28px;
- line-height: 0.5;
+ line-height: 0;
 }
 .disert {
  color: white; 
