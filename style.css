@@ -78,12 +78,12 @@ input[type=submit]:hover {
   box-sizing: border-box;
 }
 
-.column {
+.column5 {
   flex: 33.33%;
   padding: 10px;
 }
 
-.row {
+.rowrie {
   display: flex;
 }
 .yummy:hover {
