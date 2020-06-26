@@ -117,14 +117,14 @@ input[type=submit]:hover {
   display: flex;
 }
  .foods {
-  padding: 1px;
+  padding: 2px;
   color: black;
-  line-height: 1;
+  line-height: 2;
 }
 .textt {
  color: grey; 
  font-size: 28px;
- line-height: 0;
+ line-height: 2;
 }
 .disert {
  color: white; 
