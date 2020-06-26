@@ -110,7 +110,7 @@ input[type=submit]:hover {
 
 .columns {
   flex: 33.33%;
-  padding: 0px;
+  padding: 2px;
 }
 
 .rows {
